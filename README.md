@@ -1,4 +1,4 @@
-# snakeGameRepo
+# snakeGame
 This is a simple snake game project created using C++ Glut and CImg libraries.
 
 ## Steps to run
